@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Prashant Shukla",
+      "id": "RA1911003010788",
+      "section": "D",
+      "batch": "2",
+      "course": "Btech"
+    },
+    {
+      "name": "MS Dhoni",
+      "id": "07",
+      "section": "G",
+      "batch": "1",
+      "course": "Cricket"
+    },
+    {
+      "name": "Virat Kohli",
+      "id": "12",
+      "section": "E",
+      "batch": "2",
+      "course": "Mechatronics"
+    }
+  ]
+}
